@@ -1,0 +1,143 @@
+html {
+    text-align: center;
+    background-color: aqua;
+}
+
+h1 {
+    background-color: bisque;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+
+}
+
+h4 {
+    text-align: center;
+    animation: alternate;
+    background-color: gray;
+    column-rule-color: #1a1a1a;
+}
+
+img {
+    width: 900;
+    height: 100;
+}
+
+
+.container {
+    text-align: center;
+    width: 600%;
+    max-width: 800px;
+    display: flex;
+
+
+}
+
+.card {
+    text-align: center;
+    background-color: #e8c5b9;
+    border-radius: 30px;
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    width: 400%;
+    max-width: 800px;
+}
+
+.card-content h2 {
+    color: #1a1a1a;
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+    letter-spacing: 1px;
+    display: flex;
+
+}
+
+.bl0c-contact {
+
+    color: #1a1a1a;
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+    letter-spacing: 1px;
+    display: flex;
+
+    color: #333333;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin-bottom: 5px;
+    display: flex;
+    width: 400%;
+    max-width: 800px;
+
+}
+
+
+.card-content p {
+    color: #333333;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin-bottom: 5px;
+    display: flex;
+    width: 400%;
+    max-width: 800px;
+}
+
+footer {
+    background-color: black;
+    font-size: 30px;
+    color: blue;
+    font-family: monospace;
+}
+
+.mon-bloc {
+    text-align: center;
+    background-color: #e8c5b9;
+    border-radius: 50px;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    width: 500%;
+    max-width: 900px;
+    position: relative;
+    gap: 20px;
+}
+
+.bloc-test {
+    text-align: center;
+    background-color: #e8c5b9;
+    border-radius: 10px;
+    padding: 10px;
+    display: flexbox;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    max-width: 500px;
+    position: relative;
+}
+
+.bloc-container {
+
+    text-align: center;
+    background-color: #e8c5b9;
+    border-radius: 50px;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    width: 500%;
+    max-width: 900px;
+    position: relative;
+    gap: 20px;
+}
